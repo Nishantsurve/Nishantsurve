@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nishantsurve
-- 👀 I’m interested in  creating android application , promblem solving and exploring technology 
+- 👀 I’m interested in  creating android & web application , promblem solving and exploring technology 
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/nishant-surve-148973214/
