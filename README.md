@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter development ,javascript , SQL database**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nishant-surve-148973214/](https://www.linkedin.com/in/nishant-surve-148973214/)
+- 👨‍💻 Connect with me [https://www.linkedin.com/in/nishant-surve-148973214/](https://www.linkedin.com/in/nishant-surve-148973214/)
 
 - 📫 How to reach me **survenishant97@gmail.com**
 
