@@ -1,5 +1,5 @@
 
-![logo](https://media.licdn.com/dms/image/D5616AQGiIuqQWIFsMQ/profile-displaybackgroundimage-shrink_350_1400/0/1676835871333?e=1682553600&v=beta&t=gD4JBygpCE0mI0AwYrwpOelObtO6z9s6rw0rG-BRDYw)
+
 
 <h1 align="center">Hi 👋, I'm Nishant Surve</h1>
 <h3 align="center">A passionate Learner and Android development Enthaustic</h3>
