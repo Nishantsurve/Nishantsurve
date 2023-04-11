@@ -10,8 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/@nishants208" target="blank"><img src="https://img.shields.io/twitter/follow/@nishants208?logo=twitter&style=for-the-badge" alt="@nishants208" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter development ,javascript , SQL database**
-
 - 👨‍💻 Connect with me [https://www.linkedin.com/in/nishant-surve-148973214/](https://www.linkedin.com/in/nishant-surve-148973214/)
 
 - 📫 How to reach me **survenishant97@gmail.com**
