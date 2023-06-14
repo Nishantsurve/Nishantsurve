@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently pursuing Bachelor's in Computer Engineering at DIT, Pune.<br>💬 Ask me anything, and I'll try to answer it to the fullest.<br>🚀 I’m currently learning Data Structures and Algorithms, React js, Node js.<br>📫 How to reach me: survenishant97@gmail.com .<br>🥅 2023 Goals:  Get Excel in DSA and explore new technologies.<br>⚡ Fun fact: I love watching and playing Badminton & Cricket.<br>
+🔭I’m currently pursuing Bachelor's in Computer Engineering at DIT, Pune.<br>💬 Ask me about DSA, I'll try to answer it to the fullest.<br>🚀 I’m currently learning Data Structures and Algorithms, React js, Node js.<br>📫 How to reach me: survenishant97@gmail.com .<br>🥅 2023 Goals:  Get Excel in DSA and explore new technologies.<br>⚡ Fun fact: I love watching and playing Badminton & Cricket.<br>
 
 
 ## 🌐 Socials:
