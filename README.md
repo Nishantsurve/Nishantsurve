@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **survenishant97@gmail.com**
 
-- ⚡ Fun fact **I like to**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@nishants208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nishants208" height="30" width="40" /></a>
