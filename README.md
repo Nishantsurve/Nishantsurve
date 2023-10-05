@@ -1,3 +1,6 @@
+
+![](https://komarev.com/ghpvc/?username=Nishantsurve&color=blueviolet)
+
 <h1 align="center">Hi 👋, I'm Nishant Surve</h1>
 <h3 align="center">A passionate Learner and Backend development Enthaustic</h3>
 
