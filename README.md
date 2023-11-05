@@ -1,11 +1,23 @@
 
+![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/Nishantsurve/Nishantsurve/assets/104264099/b898268f-371c-424b-91d7-8df2b9cd8d77)
+
 ![](https://komarev.com/ghpvc/?username=Nishantsurve&color=blueviolet)
 
 <h1 align="center">Hi 👋, I'm Nishant Surve</h1>
 <h3 align="center">A passionate Learner and Backend development Enthaustic</h3>
 
 # 💫 About Me:
-🔭 I’m currently pursuing Computer Engineering at DIT, Pune.<br>💬 Ask me anything, and I'll try to answer it to the fullest.<br>🚀 I’m currently learning Data Structures and Algorithms, Backend development.<br>📫 How to reach me: survenishant97@gmail.com.<br>🥅 2023 Goals: Contribute to Open Source projects and explore new technologies.<br>⚡ Fun fact: Coding can “power up” your brain.
+🔭 I’m currently pursuing Computer Engineering at DIT, Pune.<br>
+
+💬 Ask me anything, and I'll try to answer it to the fullest.<br>
+
+🚀 I’m currently learning Data Structures and Algorithms, Backend development.<br>
+
+📫 How to reach me: survenishant97@gmail.com.<br>
+
+🥅 2023 Goals: Contribute to Open Source projects and explore new technologies.<br>
+
+⚡ Fun fact: Coding can “power up” your brain.
 
 
 ## 🌐 Socials:
