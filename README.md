@@ -15,7 +15,7 @@
 
 📫 How to reach me: survenishant97@gmail.com.<br>
 
-🥅 2023 Goals: Contribute to Open Source projects and explore new technologies.<br>
+🥅 2024 Goals: Contribute to Open Source projects and explore new technologies.<br>
 
 ⚡ Fun fact: Coding can “power up” your brain.
 
