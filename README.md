@@ -11,7 +11,7 @@
 
 💬 Ask me anything, and I'll try to answer it to the fullest.<br>
 
-🚀 I’m currently learning Data Structures and Algorithms, Backend development.<br>
+
 
 📫 How to reach me: survenishant97@gmail.com.<br>
 
