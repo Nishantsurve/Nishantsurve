@@ -6,6 +6,8 @@
 <h1 align="center">Hi 👋, I'm Nishant Surve</h1>
 <h3 align="center">A passionate learner and Full Stack Development Enthaustic</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=777DFF&random=false&width=435&lines=Computer+Engineering+Student;Problem+solving;Web+developer)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 I’m currently pursuing Computer Engineering at DIT, Pune.<br>
 
@@ -15,7 +17,7 @@
 
 📫 How to reach me: survenishant97@gmail.com.<br>
 
-🥅 2024 Goals: Contribute to Open Source projects and explore new technologies.<br>
+🥅 2025 Goals: Contribute to Open Source projects and explore new technologies.<br>
 
 ⚡ Fun fact: Coding can “power up” your brain.
 
