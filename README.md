@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Surve</h1>
 <h3 align="center">A passionate learner and Full Stack Development Enthaustic</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=777DFF&random=false&width=435&lines=Computer+Engineering+Student;Problem+solving;Web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=777DFF&random=false&width=435&lines=Computer+Science+Student;Problem+solving(DSA);Web+developer;Consistant+Learner)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I’m currently pursuing Computer Engineering at DIT, Pune.<br>
