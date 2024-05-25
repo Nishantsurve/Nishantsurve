@@ -2,6 +2,9 @@
 ![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/Nishantsurve/Nishantsurve/assets/104264099/b898268f-371c-424b-91d7-8df2b9cd8d77)
 
 ![](https://komarev.com/ghpvc/?username=Nishantsurve&color=blueviolet)
+<br>
+
+![](https://github-profile-trophy.vercel.app/?username=Nishantsurve&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <h1 align="center">Hi 👋, I'm Nishant Surve</h1>
 <h3 align="center">A passionate learner and Full Stack Development Enthaustic</h3>
