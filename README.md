@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Nishantsurve&color=blueviolet)
 
 <h1 align="center">Hi 👋, I'm Nishant Surve</h1>
-<h3 align="center">A passionate Learner and Backend development Enthaustic</h3>
+<h3 align="center">A passionate learner and Full Stack Development Enthaustic</h3>
 
 # 💫 About Me:
 🔭 I’m currently pursuing Computer Engineering at DIT, Pune.<br>
