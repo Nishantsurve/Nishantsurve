@@ -21,7 +21,7 @@
 
 
 
-📫 How to reach me: survenishant97@gmail.com.<br>
+📫 How to reach me: survenishant97@gmail.com  &  https://nishantsurve.netlify.app .<br>
 
 🥅 2025 Goals: Contribute to Open Source projects and explore new technologies.<br>
 
@@ -35,7 +35,8 @@
 # 💻 Tech Stack:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mui,html,css,vscode,git,github,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,mui,html,css,vscode,git,github,tailwind" />
+    <br>
     <img src="https://skillicons.dev/icons?i=C++,python,javascript,java,php,nodejs,express,mongodb,mysql" /><br>
 </div>
 <hr/>
