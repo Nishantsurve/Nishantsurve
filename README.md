@@ -10,7 +10,7 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Nishant Surve</h1>
-<h3 align="center">A passionate learner & Full Stack Development Enthaustic</h3>
+<h3 align="center">A passionate learner & Full Stack Developer</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=777DFF&random=false&width=435&lines=Computer+Science+Student;Problem+solving(DSA);Web+developer;Consistant+Learner)](https://git.io/typing-svg)
 
@@ -21,7 +21,9 @@
 
 
 
-📫 How to reach me: survenishant97@gmail.com  &  https://nishantsurve.netlify.app .<br>
+📫 How to reach me: <br>
+email : survenishant97@gmail.com   <br>
+      Portfolio: https://nishantsurve.netlify.app 
 
 🥅 2025 Goals: Contribute to Open Source projects and explore new technologies.<br>
 
