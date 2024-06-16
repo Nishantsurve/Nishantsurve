@@ -23,7 +23,7 @@
 
 📫 How to reach me: <br>
 email : survenishant97@gmail.com   <br>
-      Portfolio: https://nishantsurve.netlify.app 
+      Portfolio: https://nishantsurve.github.io/Nishant-Portfolio/ 
 
 🥅 2025 Goals: Contribute to Open Source projects and explore new technologies.<br>
 
