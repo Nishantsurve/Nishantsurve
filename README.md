@@ -15,7 +15,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=777DFF&random=false&width=435&lines=Computer+Science+Student;Problem+solving(DSA);Web+developer;Consistant+Learner)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I’m currently pursuing Computer Engineering at DIT,Pimpri, Pune.<br>
+🔭 I’m currently pursuing Computer Engineering as final year student at DIT, Pimpri, Pune.<br>
 
 💬 Ask me anything, and I'll try to answer it to the fullest.<br>
 
