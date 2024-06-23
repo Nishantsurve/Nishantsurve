@@ -17,10 +17,6 @@
 # 💫 About Me:
 🔭 I’m currently pursuing Computer Engineering as final year student at DIT, Pimpri, Pune.<br>
 
-💬 Ask me anything, and I'll try to answer it to the fullest.<br>
-
-
-
 📫 How to reach me: <br>
 email : survenishant97@gmail.com   <br>
       Portfolio: https://nishantsurve.github.io/Nishant-Portfolio/ 
