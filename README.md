@@ -1,7 +1,6 @@
+![](https://komarev.com/ghpvc/?username=Nishantsurve&color=blueviolet)
 
 ![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/Nishantsurve/Nishantsurve/assets/104264099/b898268f-371c-424b-91d7-8df2b9cd8d77)
-
-![](https://komarev.com/ghpvc/?username=Nishantsurve&color=blueviolet)
 
 <br>
 
