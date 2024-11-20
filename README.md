@@ -14,10 +14,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=777DFF&random=false&width=435&lines=Computer+Science+Student;Problem+solving(DSA);Web+developer;Consistant+Learner)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I’m currently pursuing Computer Engineering as final year student at DIT, Pimpri, Pune.<br>
+🔭 I’m currently pursuing Computer Engineering as a final year student at DIT, Pimpri, Pune.<br>
 
 📫 How to reach me: <br>
-email : survenishant97@gmail.com   <br>
+email : nishantsurve254@gmail.com <br>
       Portfolio: https://nishantsurve.github.io/Nishant-Portfolio/ 
 
 🥅 2025 Goals: Contribute to Open Source projects and explore new technologies.<br>
