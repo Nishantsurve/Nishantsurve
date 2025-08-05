@@ -14,7 +14,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=777DFF&random=false&width=435&lines=Computer+Science+Student;Problem+solving(DSA);Web+developer;Consistant+Learner)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I’m currently pursuing Computer Engineering as a final year student at DIT, Pimpri, Pune.<br>
+<br>
+I’m Nishant Surve, a passionate and self-resilient aspiring Software Developer with strong problem-solving skills and a keen interest in Full Stack Development.
+
+Currently, I am working as a Trainee at Xalta (UiPath | RPA Development).
+
+With strong skills in Java, Python, C++, React, Node.js, SQL, MongoDB, and REST APIs, I enjoy designing solutions that are both efficient and impactful. I am also an enthusiastic problem solver, actively contributing on platforms like LeetCode (Knight Rank 1885), solving a wide range of algorithmic challenges. <br>
 
 📫 How to reach me: <br>
 email : nishantsurve254@gmail.com <br>
